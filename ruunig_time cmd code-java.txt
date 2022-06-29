@@ -1,0 +1,15 @@
+==>normel java files:-
+
+  	compile:- javac file_name.java
+	run:-java file_name
+
+==>packages java files:-
+
+ 	compile:-javac -d . class_name.java
+ 	run:-java package_name.class_name
+
+==>applet java files:-
+
+ 	compile:-javac file_name.java
+	run:-appletviewer file_name.html
+
